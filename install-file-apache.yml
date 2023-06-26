@@ -1,0 +1,9 @@
+---
+- hosts: dev
+  become: yes
+  tasks:
+  - name:
+    file:
+      path: /dinesh/home/dinesh123
+      state: directory
+      mode: 0777
