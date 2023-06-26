@@ -1,0 +1,63 @@
+30 git commands :
+
+1. git init: initializes a new GIT repository
+
+2.git clone: creates a copy of an existing Git repository
+
+3.git add: ADDS changes to the staging area
+
+4.git commit: commits changes to the repository
+
+5. git status: shows the status of the repository
+
+6.git log: shows the commit history of the repository
+
+7.git branch: list or create branches
+
+8.git checkout: switches to a different branch or commit
+
+9.git merge: merges changes one branch into another
+
+10.git remote: manage remote repository
+
+11.git push: pushe changes to a remote repository
+
+12.git pull: fetches changes from a remote repository and merges them into the local repository
+
+13.git fetch: fetches changes from a remote repository
+
+14:git reset: resets the repository to previous state
+
+15.git revert:revert a commit
+
+16.git stash: stashes changes to be applied later.
+
+17.git tag: create a tag for a specific commit
+
+18.git diff: shows the difference between two commits or branches
+
+19.git blame: shows who last modified each line of a file
+
+20.git show: shows information about a specific commit.
+
+21.git grep: searches for a pattern in the repository
+
+22.git config: configure git settings
+
+23.git rm: removes file from a repository
+
+24.git mv: move or rename files in the repository
+
+25.git archive: create archeive of the repository
+
+26.git bisect: Helps find the commit that introduced a bug
+
+27.git cherry-pick: Applies a specific commit to the current branch
+
+28.git rebase: reapplies commits on top of another branch.
+
+29.git submodule: manage submodules within the repository
+
+30.git log --graph: shows the commit history of the repository as a graph.
+
+
